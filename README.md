@@ -1,4 +1,4 @@
-# Amazon-E-commerce-Sales-Analysis-Dashboard-Power-BI-
+# Amazon-E-commerce-Sales-Analysis-Dashboard-Power-BI
 Developed an interactive Power BI dashboard to analyze sales performance for an Amazon-based e-commerce business in 2021-2022.  The dashboard offers a high-level overview of total sales, product demand, customer engagement, and category performance.
 
 Key Features:
@@ -23,3 +23,6 @@ Some Insights
 2. The most in-demand category was Kurta, with over 5,000 orders, followed by Kurta Set and Top.
 
 3. Amari Concept Trading LLC was the top-performing customer/business, contributing over $930K in sales.
+
+
+Link: https://app.powerbi.com/groups/me/reports/076d38b3-a3f2-4f6f-a174-244ae22f3aa4/1cc27612e9223e3da847?experience=power-bi
